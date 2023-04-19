@@ -6,4 +6,4 @@ There are several potential directions for extending this research study. Firstl
 
 These potential research directions could further enhance the findings and contribute to a more comprehensive understanding of API usability evaluation using design complexity metrics.
 
-![alt text](https://github.com/LeonVitanos/api_complexity/blob/master/images/plot.png?raw=true)
+![alt text](https://github.com/LeonVitanos/api-usability-evaluation/blob/main/images/plot.png?raw=true)
